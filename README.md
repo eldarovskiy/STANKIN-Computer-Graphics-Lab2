@@ -1,0 +1,1 @@
+# STANKIN-Computer-Graphics-Lab2
